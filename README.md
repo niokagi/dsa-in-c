@@ -29,4 +29,4 @@ A collection of C source code implementations for fundamental Data Structures an
 
 ---
 
-This repository serves as personal documentation for the **"Algorithms and Data Structures"** course. It tracks my progress and understanding of the concepts taught throughout the semester.
+This repository serves as personal documentation for the **"Data Structures and Algorithms"**. It tracks my progress and understanding of the concepts taught throughout the semester.
