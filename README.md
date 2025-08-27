@@ -7,17 +7,11 @@ A collection of C source code implementations for fundamental Data Structures an
 ### Data Structures
 -   **Array & Struct**: Basic data organization.
 -   **Linked List**:
-    -   Singly Linked List
-    -   Doubly Linked List
-    -   Circular Linked List
 -   **Stack**: LIFO (Last-In, First-Out) structure.
 -   **Queue**: FIFO (First-In, First-Out) structure.
--   **Hash Table**: Key-value pair mapping.
 -   **Tree**:
     -   Binary Search Tree (BST)
--   **Graph**:
-    -   Adjacency Matrix
-    -   Adjacency List
+-   **Graph**
 
 ### Algorithms
 -   **Searching**:
@@ -29,25 +23,9 @@ A collection of C source code implementations for fundamental Data Structures an
     -   Insertion Sort
     -   Merge Sort
     -   Quick Sort
--   **Graph Traversal**:
+-   **Graph**:
     -   Breadth-First Search (BFS)
     -   Depth-First Search (DFS)
-
----
-
-## How to Use
-
-Each directory contains a specific data structure or algorithm. To compile and run a file, use a C compiler like GCC:
-
-1.  **Compile the file:**
-    ```sh
-    gcc file_name.c -o output
-    ```
-
-2.  **Run the executable:**
-    ```sh
-    ./output
-    ```
 
 ---
 
