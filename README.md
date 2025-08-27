@@ -1,12 +1,8 @@
-# Algorithm and Data Structure in C
+# Data Structure and Algorithms in C
 
-A collection of C source code implementations for fundamental algorithms and data structures.
+A collection of C source code implementations for fundamental Data Structures and Algorithms.
 
 ---
-
-## Table of Contents
-
-This repository contains implementations of various concepts, including:
 
 ### Data Structures
 -   **Array & Struct**: Basic data organization.
